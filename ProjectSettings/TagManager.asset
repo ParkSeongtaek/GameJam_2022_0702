@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< Updated upstream
   tags: []
+=======
+  tags:
+  - Lava
+  - Ground
+  - Tetris
+  - Controllable
+  - Block
+  - foot
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
@@ -11,10 +21,10 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Tetris
+  - Ground
+  - Player
+  - BlockPlayer
   - 
   - 
   - 
